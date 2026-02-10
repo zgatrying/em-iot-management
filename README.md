@@ -1,6 +1,6 @@
-# Iot 工程管理工具 (Release Repo)
+# Iot 工程管理工具 (离线版)
 
-本仓库仅用于存储 `iot-easeview` 的发布版本 (Releases) 和构建产物。
+本仓库仅用于存储 `iot-management` 的发布版本 (Releases) 和构建产物。
 
 ## 安装指南
 
